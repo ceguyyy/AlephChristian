@@ -10,7 +10,7 @@ Frameworks: SwiftUI
 Tools: Xcode, GitHub, Apiary
 
 2. App Architecture
-    2.1 Design Pattern
+2.1 Design Pattern
         The app follows the MVVM (Model-View-ViewModel) architecture.
 
     2.2 Folder Structure
